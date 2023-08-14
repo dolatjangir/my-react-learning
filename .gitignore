@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/life-cycle/node_modules
+/life-cycle/.pnp
+/life-cycle/.pnp.js
+
+# testing
+/life-cycle/coverage
+
+# production
+/life-cycle/build
+
+# misc
+/life-cycle/.DS_Store
+/life-cycle/.env.local
+/life-cycle/.env.development.local
+/life-cycle/.env.test.local
+/life-cycle/.env.production.local
+
+/life-cycle/npm-debug.log*
+/life-cycle/yarn-debug.log*
+/life-cycle/yarn-error.log*
